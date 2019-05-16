@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 # 程序的入口
 # 每一次启动名片管理系统都通过main这个文件启动
 import card_tool
